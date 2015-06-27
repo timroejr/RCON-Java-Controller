@@ -195,7 +195,7 @@ public class rconappletgui extends javax.swing.JApplet {
     private void sendCommandMouseClicked(java.awt.event.MouseEvent evt) {                                         
         // TODO add your handling code here:
         int localPort = 27015;
-    	String ip = "71.116.203.101";
+    	String ip = "108.38.170.24";
     	String password = rconPassword.getText();
     	exec = rconCommand.getText();
         String console = "";
